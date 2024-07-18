@@ -1,2 +1,3 @@
 ini mungkin agak mustahil untuk di gapai
 - memiliki banyak relasi
+- untuk ikut organisasi
